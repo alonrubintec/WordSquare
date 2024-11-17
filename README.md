@@ -24,7 +24,7 @@ Prepare a text file named four_letter_words.txt in the same directory as the scr
 
 ## Running the Script
 
-python word_square_app.py
+run main.py
 
 ### Output Files
 results.txt: A text file containing all the word squares found, with each square indexed.
